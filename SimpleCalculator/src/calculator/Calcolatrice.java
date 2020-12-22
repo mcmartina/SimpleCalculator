@@ -55,7 +55,11 @@ public class Calcolatrice {
 	}
 	
 	public void primaModifica() {
-		System.out.println("Questa � la prima modifica");
+		System.out.println("Questa è la prima modifica");
+	}
+	
+	public void secondaModifica() {
+		System.out.println("Questa è la seconda modifica");
 	}
 	
 	//fare caso di test
