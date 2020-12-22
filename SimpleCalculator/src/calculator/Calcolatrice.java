@@ -54,6 +54,10 @@ public class Calcolatrice {
 			return x; 		
 	}
 	
+	public void primaModifica() {
+		System.out.println("Questa è la prima modifica");
+	}
+	
 	//fare caso di test
 	//i metodi servono per settare l'ambiente per eseguire i casi di test della classe di test
 	//i primi due sono eseguiti una volta prima della classe e una volta dopo la classe
